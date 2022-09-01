@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644149496 source:d:\projects\phase 2 qualification contest\paintingplates\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

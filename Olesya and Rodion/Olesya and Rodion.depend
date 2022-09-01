@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598627302 source:d:\projects\pl 1\mostafa saad\olesya and rodion\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<ttmath.h>
+

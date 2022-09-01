@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612179440 source:d:\projects\mostafa saad\sereja and suffixes\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

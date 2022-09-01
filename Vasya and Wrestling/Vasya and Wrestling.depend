@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627812204 source:d:\projects\vasya and wrestling\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

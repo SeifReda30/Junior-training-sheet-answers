@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643798804 source:d:\projects\vanya and fence\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609938925 source:d:\projects\mostafa saad\growing mushrooms\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

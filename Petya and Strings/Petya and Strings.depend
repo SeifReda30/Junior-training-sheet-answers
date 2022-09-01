@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597061728 source:d:\projects\pl 1\mostafa saad\petya and strings\main.cpp
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+

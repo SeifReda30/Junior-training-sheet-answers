@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597586845 source:d:\projects\pl 1\mostafa saad\string task\main.cpp
+	<iostream>
+	<ctype.h>
+

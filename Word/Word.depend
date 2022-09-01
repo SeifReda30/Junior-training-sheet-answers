@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597418005 source:d:\projects\pl 1\mostafa saad\word\main.cpp
+	<cctype>
+	<iostream>
+	<cstring>
+	<cstdio>
+	<string.h>
+	<bits/stdc++.h>
+

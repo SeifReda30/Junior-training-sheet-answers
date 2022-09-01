@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598232381 source:d:\projects\pl 1\mostafa saad\keyboard\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

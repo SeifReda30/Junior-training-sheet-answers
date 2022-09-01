@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609785314 source:d:\projects\mostafa saad\burglar and matches\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
